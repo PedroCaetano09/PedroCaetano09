@@ -1,16 +1,40 @@
-## Hi there 👋
+# Pedro Martins Caetano
 
-<!--
-**PedroCaetano09/PedroCaetano09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Estudante | Robótica (FLL) | Futuro Dev Back-end  
 
-Here are some ideas to get you started:
+Sou estudante do **SESI Belém**, integrante de uma equipe de **robótica FLL (FIRST LEGO League)** e focado em evoluir na **programação**, principalmente no **back-end**.  
+Curto resolver problema, mexer com lógica e criar projetos que funcionem de verdade.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> “Um código bem feito vale mais que mil desculpas.”
+
+---
+## 🚀 Sobre mim
+
+- 💻 Atuação principal na **programação**
+- 🌐 Desenvolvimento **web** para suporte e integração de sistemas
+- 🏆 Experiência em **robótica competitiva**
+- 🎓 Atuação em projetos de **robótica educacional**
+
+
+---
+
+## 🧠 Áreas de atuação
+- Programação para robótica educacional
+- Lógica e algoritmos
+- Desenvolvimento web (base)
+- Sistemas e automação
+
+---
+
+## 🛠 Linguagens e ferramentas
+![My Skills](https://skillicons.dev/icons?i=html,css,js,python,java,github,vscode)
+
+## 🔗 Links
+- 🌐 GitHub: https://github.com/Bwigl07
+- 💼 LinkedIn: (https://www.linkedin.com/in/pedro-caetano-968a763a8/)
+- 📂 Projetos: em constante evolução 🚧
+
+
+
+
+
