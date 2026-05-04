@@ -27,7 +27,7 @@ Curto resolver problema, mexer com lógica e criar projetos que funcionem de ver
 ---
 
 ## 🛠 Linguagens e ferramentas
-![My Skills](https://skillicons.dev/icons?i=html,css,js,python,java,github,vscode)
+![My Skills](https://skillicons.dev/icons?i=js,python,java,github,vscode,pycharm,)
 
 ## 🔗 Links
 - 🌐 GitHub: https://github.com/Bwigl07
