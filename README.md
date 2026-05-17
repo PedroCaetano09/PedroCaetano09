@@ -30,7 +30,6 @@ Curto resolver problema, mexer com lógica e criar projetos que funcionem de ver
 ![My Skills](https://skillicons.dev/icons?i=js,python,java,github,vscode,pycharm,androidstudio)
 
 ## 🔗 Links
-- 🌐 GitHub: https://github.com/PedroCaetano09
 - 💼 LinkedIn: (https://www.linkedin.com/in/pedro-caetano-968a763a8/)
 - 📂 Projetos: em constante evolução 🚧
 
